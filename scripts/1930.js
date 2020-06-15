@@ -1,0 +1,1 @@
+let animado = document.querySelectorAll(".animado");
